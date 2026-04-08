@@ -1,0 +1,19 @@
+<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="320" rx="30" fill="#F0FAF7"/>
+  <rect x="36" y="41" width="448" height="238" rx="24" fill="white"/>
+  <rect x="64" y="71" width="118" height="176" rx="18" fill="#E8F6F3"/>
+  <rect x="200" y="71" width="255" height="50" rx="15" fill="#F5F9FC"/>
+  <rect x="200" y="139" width="119" height="108" rx="18" fill="#FFF3E0"/>
+  <rect x="336" y="139" width="119" height="108" rx="18" fill="#E3F2FD"/>
+  <circle cx="123" cy="122" r="28" fill="#14B8A6"/>
+  <path d="M123 111V133" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M112 122H134" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <rect x="82" y="166" width="82" height="12" rx="6" fill="#8EDFD1"/>
+  <rect x="82" y="189" width="63" height="12" rx="6" fill="#BFE9E1"/>
+  <circle cx="229" cy="96" r="8" fill="#14B8A6"/>
+  <rect x="246" y="89" width="155" height="14" rx="7" fill="#D8E7F2"/>
+  <path d="M227 214C227 193.013 244.013 176 265 176C285.987 176 303 193.013 303 214V247H227V214Z" fill="#F59E0B"/>
+  <circle cx="265" cy="203" r="20" fill="#FFF7E8"/>
+  <path d="M366 214C366 193.013 383.013 176 404 176C424.987 176 442 193.013 442 214V247H366V214Z" fill="#38BDF8"/>
+  <circle cx="404" cy="203" r="20" fill="#EAF7FF"/>
+</svg>
